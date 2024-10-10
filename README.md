@@ -30,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
     <img src="https://skillicons.dev/icons?i=express" alt="Express" />
     <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.io" />
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
   </p>
 
   <h4>Databases</h4>
