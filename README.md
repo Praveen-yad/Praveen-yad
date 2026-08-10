@@ -1,70 +1,52 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Praveen Yadav</h1>
-<h3 align="center">Aspiring DevOps Engineer | MERN Stack Developer</h3>
+# Hi, I'm Praveen Yadav 👋
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding gif" />
+### Software Development Engineer | Backend & Full-Stack Developer
+
+Software Development Engineer specializing in **Java, Spring Boot, Angular, and PostgreSQL**, with experience building scalable web applications and REST APIs.
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript,python" />
 </p>
 
----
+### Backend & Frameworks
 
-### Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/praveen-yad/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0077B5" width="40" height="40" alt="LinkedIn" style="margin-right: 10px;" />
-  </a>
-  <a href="mailto:praveenyadav0118@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,angular,react" />
 </p>
 
----
+### Databases
 
-### Tech Stack
-
-#### Programming Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
 </p>
 
-#### Frameworks & Libraries  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux" />
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,git,github,linux,nginx,postman" />
 </p>
 
-#### Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma" />
-</p>
+## About Me
 
-#### Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,jenkins,ansible" />
-</p>
+* Software Development Engineer working on large-scale e-governance applications
+* Experienced in backend development, REST APIs, PostgreSQL, and SQL
+* Working with Java, Spring Boot, Angular, and enterprise applications
+* Exploring cloud infrastructure, Docker, CI/CD, and DevOps
+* Built **Kubescale**, a deployment platform for MERN applications
+* Interested in backend engineering, system design, cloud, and DevOps
 
----
-
-### GitHub Insights
+## GitHub Activity
 
 <p align="center">
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen-yad&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-yad&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveen-yad&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
----
 
-### About Me
-- 🎓 Final Year B.Tech Student passionate about DevOps & Cloud Engineering  
-- 🧩 Exploring Docker, Kubernetes, and CI/CD automation  
-- 💡 Built **Kubescale** – a simplified SaaS deployment platform for MERN apps  
-- 💬 Ask me about **React, Node.js, Docker, and CI/CD pipelines**  
-- ⚡ Fun fact: I enjoy learning system design and building scalable demos  
+## Connect
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
+[LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Praveen-yad)
